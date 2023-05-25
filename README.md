@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ncfire303
-- 👀 I’m interested in cyber security 
+- 👋 Hello, I am Bob Montgomery
+- 👀 I’m interested in cyber security and front-end developement
 - 🌱 I’m currently learning general coding
 - 💞️ I’m looking to collaborate on multiple platforms
 - 📫 How to reach me ncfire303@gmail.com
